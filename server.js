@@ -1,2 +1,2 @@
-const App=require('./app/index')
+const App=require('./app')
 App()

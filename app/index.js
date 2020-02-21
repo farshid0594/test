@@ -19,7 +19,7 @@ function App() {
     })
     app.use('cors')
     app.post('/signup', (req, res) => {
-        console.log("log");
+        console.log("log2");
         
         try {
             let errors = []
